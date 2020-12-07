@@ -1,0 +1,27 @@
+body{
+	background-color: silver;
+}
+@media screen and (min-width:480px){
+	p{
+		background-color: lightgreen;
+	}
+}
+.A{
+	margin-left: auto;
+	margin-right: auto;
+	border:1px solid black;
+	background-color: yellow;
+	color: maroon;
+	font-size: 150%;
+}
+#B{
+	border:1px solid black;
+	color: red;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 100%;
+}
+.C{
+	float:left;
+	margin:10px 10px 10px 10px;
+}
